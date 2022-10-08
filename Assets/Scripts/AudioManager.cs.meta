@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 613c2cf7a5e73274c88f8949d515d643
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - musicClip: {instanceID: 0}
+  - ambienceClip: {instanceID: 0}
+  - jumpVoiceClip: {instanceID: 0}
+  - jumpClip: {instanceID: 0}
+  - deathVoiceClip: {fileID: 8300000, guid: bfe755c2baac648aaa89f65b7534298f, type: 3}
+  - deathSFXClip: {fileID: 8300000, guid: 4e3f9922651f9428e8b99445e42653dc, type: 3}
+  - collectVoiceClip: {instanceID: 0}
+  - collectSFXClip: {instanceID: 0}
+  - doorOpenSFXClip: {instanceID: 0}
+  - winSFXClip: {instanceID: 0}
+  - ambienceSource: {instanceID: 0}
+  - musicSource: {instanceID: 0}
+  - voiceSource: {instanceID: 0}
+  - sfxSource: {instanceID: 0}
+  - ambientGroup: {fileID: 243375458998414286, guid: 1a97e82b85c8b7445be8d31fb13bed3a, type: 2}
+  - musicGroup: {fileID: 243230206115637112, guid: 1a97e82b85c8b7445be8d31fb13bed3a, type: 2}
+  - sfxGroup: {fileID: 243956182141439812, guid: 1a97e82b85c8b7445be8d31fb13bed3a, type: 2}
+  - voiceGroup: {fileID: 243908835443367434, guid: 1a97e82b85c8b7445be8d31fb13bed3a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
